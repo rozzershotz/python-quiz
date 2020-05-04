@@ -15,19 +15,6 @@ def get_questions():
     
     Questions.append(Question2)
 
-
-
-
-
-
-
-
-
-
-
-
-    
-    
     Question3 = {}
     Question3["QuestionText"] = "Animals are..."
     Question3["Answers"] = ["Annoying", "Cute", "Not humans"]
