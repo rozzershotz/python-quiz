@@ -13,6 +13,7 @@ def get_questions():
     Question2["Answers"] = ["A dog", "A dog", "A dog"]
     Question2["CorrectAnswer"] = "dog" 
     
+    
     Questions.append(Question2)
 
     Question3 = {}
