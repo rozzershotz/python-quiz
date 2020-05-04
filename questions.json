@@ -1,0 +1,31 @@
+{
+    "questions": [
+        {
+            "question": "Where does a fish live?",
+            "answers": [
+                "water.io",
+                "H20",
+                "A compound of nutrients supported in a nuclei-based water mixture * You can just put compound if that's your answer*"
+            ],
+            "correctanswer": "compound"
+        },
+        {
+            "question": "What is a dog.",
+            "correctanswer": "dog",
+            "answers": [
+                "dog",
+                "dog",
+                "dog"
+            ]
+        },
+        {
+            "question": "Animals are...",
+            "correctanswer": "not",
+            "answers": [
+                "Annoying",
+                "Cute",
+                "Not humans"
+            ]
+        }
+    ]
+}

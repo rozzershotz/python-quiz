@@ -1,0 +1,25 @@
+{
+    "firstname": "Reuben",
+    "lastname": "Taylor",
+    "glasses": true,
+    "epicGamerness": -1.5,
+    "friends": -4,
+    "traintrackcount": 1,
+    "Dimensions": {
+        "Height ": "idk",
+        "Weight": "heavy",
+        "tinkerBell": null,
+        "humans": true
+    },
+    "Familymemes": [
+        {
+            "Name": "Beth"
+        },
+        {
+            "Name": "Aaron"
+        },
+        {
+            "Name": "Isaac"
+        }
+    ]
+}
