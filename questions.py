@@ -14,6 +14,19 @@ def get_questions():
     Question2["CorrectAnswer"] = "dog" 
     
     Questions.append(Question2)
+
+
+
+
+
+
+
+
+
+
+
+
+    
     
     Question3 = {}
     Question3["QuestionText"] = "Animals are..."
