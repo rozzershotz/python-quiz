@@ -26,6 +26,16 @@
                 "Cute",
                 "Not humans"
             ]
+        },
+        {
+            "question": "hotichiwa noy simaso?",
+            "correctanswer": "japanese",
+            "answers":[
+                "Japanese",
+                "Vietnamese",
+                "Austrailian"
+
+            ]
         }
     ]
 }

@@ -4,14 +4,14 @@ RightAnswers = 0
 WrongAnswers = 0
 
 def check_answer(question, keyboard):
-    return question["CorrectAnswer"].lower() in keyboard.lower()
+    return question["correctanswer"].lower() in keyboard.lower()
 
 def show_question(question):
     global RightAnswers
     global WrongAnswers
-    print(question["QuestionText"])
+    print(question["question"])
     print("")
-    for answer in question["Answers"]:
+    for answer in question["answers"]:
         print(answer)
         print()
     keyboard = input("Give me ur answer pls: " )
