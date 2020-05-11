@@ -14,7 +14,7 @@ def show_question(question):
     for answer in question["answers"]:
         print(answer)
         print()
-    keyboard = input("Give me ur answer pls: " )
+    keyboard = input("Give me ur answer pls: " ) 
     print()
 
     if check_answer(question, keyboard):
