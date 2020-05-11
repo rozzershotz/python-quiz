@@ -15,7 +15,7 @@ def show_question(question):
         print(answer)
         print()
     keyboard = input("Give me ur answer pls: " )
-    print ()
+    print()
 
     if check_answer(question, keyboard):
         RightAnswers = RightAnswers + 1

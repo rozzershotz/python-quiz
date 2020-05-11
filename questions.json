@@ -29,10 +29,10 @@
         },
         {
             "question": "hotichiwa noy simaso?",
-            "correctanswer": "japanese",
+            "correctanswer": "japan",
             "answers":[
                 "Japanese",
-                "Vietnamese",
+                "West American",
                 "Austrailian"
 
             ]
