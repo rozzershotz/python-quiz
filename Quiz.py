@@ -1,3 +1,5 @@
+# main program file, run this for quiz
+
 import questions
 
 RightAnswers = 0

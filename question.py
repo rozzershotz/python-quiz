@@ -1,3 +1,5 @@
+# represents a single quiz question
+
 class Question:
     questionText = None
     correctAnswer = None
